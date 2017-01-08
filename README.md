@@ -1,5 +1,7 @@
 # Angular Flex Kick Off
 
+**this branch has been moved to a new repo -> [yuElevated](https://github.com/rafszul/yuElevated)**
+
 ## Angular-cli
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
